@@ -57,25 +57,25 @@ skills:
         icon_pack: fas
       - name: blender
         description: ''
-        percent: 40
+        percent: 90
         icon: blender
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Video Gaming
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Modding
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
