@@ -29,7 +29,7 @@ tags:
   - 开源
 
 categories:
-  - Demo
+  - Tutorial
   - 教程
 ---
 # 调整反差的工具
