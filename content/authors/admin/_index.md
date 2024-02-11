@@ -48,17 +48,12 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
       - name: C/C++/CUDA
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: blender
         description: ''
         percent: 90
-        icon: icon-blender
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -66,12 +61,12 @@ skills:
       - name: Video Gaming
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: gamepad
         icon_pack: fas
       - name: Modding
         description: ''
         percent: 80
-        icon: cat
+        icon: screwdriver-wrench
         icon_pack: fas
       - name: Photography
         description: ''
@@ -87,21 +82,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/assassin-plus
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
