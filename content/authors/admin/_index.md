@@ -59,6 +59,7 @@ skills:
         description: ''
         percent: 90
         icon: blender
+        icon_pack: local
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
