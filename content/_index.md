@@ -169,11 +169,11 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
   - block: contact
     id: contact
     content:
@@ -183,7 +183,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: luzq21@mails.tsinghua.edu.cn
       address:
-        street: University
+        street: Tsinghua University
         city: Beijing
         country: China
         country_code: PRC
