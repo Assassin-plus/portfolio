@@ -1,6 +1,6 @@
 ---
 title: 3D Modeling
-summary: Chosen modeling project.
+summary: Chosen modeling project. Rendered using Keyshot.
 tags:
   - Digital Art
 date: '2024-01-12T00:00:00Z'
