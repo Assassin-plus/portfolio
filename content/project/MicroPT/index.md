@@ -1,6 +1,6 @@
 ---
 title: Micro-PT
-summary: A classic path tracing algorithm implemented in C++ with modern matirial support and multi-threading.
+summary: A classic path tracing algorithm implemented in C++ with modern material support and multi-threading.
 tags:
   - Computer Graphics
 date: '2023-06-31T00:00:00Z'
