@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Student
+role: Junior Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
