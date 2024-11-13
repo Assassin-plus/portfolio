@@ -29,9 +29,9 @@ bio: My research interests is in computer graphics, covering off-line and real-t
 
 # Interests to show in About widget
 interests:
-  - Computer Graphics
-  - Rendering
-  - Physical Simulation
+  - Computer Graphics / Rendering
+  - VR/AR
+  - Motion Capture
 
 # Education to show in About widget
 education:
@@ -54,15 +54,13 @@ skills:
       - name: blender
         description: ''
         percent: 90
+      - name: Java
+	description: ''
+	percent: 60
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Video Gaming
-        description: ''
-        percent: 60
-        icon: gamepad
-        icon_pack: fas
       - name: Modding
         description: ''
         percent: 80
@@ -72,6 +70,11 @@ skills:
         description: ''
         percent: 100
         icon: camera-retro
+        icon_pack: fas
+      - name: Video Gaming
+        description: ''
+        percent: 60
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking

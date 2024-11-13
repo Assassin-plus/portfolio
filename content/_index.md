@@ -91,6 +91,8 @@ sections:
           tag: Computer Graphics
         - name: Digital Arts
           tag: art
+	- name: Scripts
+	  tag: scripts
         - name: Other
           tag: Demo
     design:
