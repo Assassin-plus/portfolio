@@ -3,10 +3,10 @@
 title: 卢子期
 
 # Name pronunciation (optional)
-name_pronunciation: Ziqi Lu
+name_pronunciation: Zi-Qi Lu
 
 # Full name (for SEO)
-first_name: Ziqi
+first_name: Zi-Qi
 last_name: Lu
 
 # Status emoji
