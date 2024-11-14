@@ -1,7 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "TerraCraft: City-scale Generative Procedural Modeling with Natural
+Languages"
 authors:
+- Zi-Chen Xi
+- Zhihao Yao
+- Jiahui Huang
 - admin
+- Tai-Jiang Mu
+- Zhigang Wang
+- Qunce Xu
 date: "2024-09-07T00:00:00Z"
 doi: ""
 
@@ -46,7 +53,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Teaser'
-  focal_point: ""
+  focal_point: "middle"
   preview_only: false
 
 # Associated Projects (optional).
@@ -64,4 +71,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-This work is driven by the results in my [previous project](/content/TerraGPT).
+This work is driven by the results in my [previous project](/portfolio/content/project/TerraGPT).
