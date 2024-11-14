@@ -51,9 +51,10 @@ featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'Teaser'
-  focal_point: "middle"
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
