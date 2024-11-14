@@ -6,7 +6,7 @@ tags:
   - Stable Diffution
   - Procedural Modeling
   - Generative Methods
-date: '2024-09-7T00:00:00Z'
+date: '2024-09-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ''
