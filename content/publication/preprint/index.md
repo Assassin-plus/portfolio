@@ -54,7 +54,7 @@ featured: true
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   caption: 'Teaser'
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).
