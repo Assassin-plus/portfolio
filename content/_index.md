@@ -140,14 +140,14 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+ # - block: markdown
+ #   content:
+ #     title: Gallery
+ #     subtitle: ''
+ #     text: |-
+ #       {{< gallery album="demo" >}}
+ #   design:
+ #     columns: '1'
   - block: collection
     id: featured
     content:
@@ -183,11 +183,11 @@ sections:
   #  design:
   #    columns: '2'
   #    view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
   - block: contact
     id: contact
     content:
