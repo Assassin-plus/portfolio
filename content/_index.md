@@ -73,7 +73,8 @@ sections:
           location: Beijing
           date_start: '2023-09-01'
           date_end: '2024-09-01'
-          description: Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology; Advisor： Shi-Min Hu & Tai-Jiang Mu
+          description: "Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
+Advisor： Shi-Min Hu & Tai-Jiang Mu"
         - title: Research Assistant
           company: University of Utah
           location: Salt Lake City, Utah, USA
