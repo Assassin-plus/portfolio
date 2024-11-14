@@ -22,3 +22,5 @@ url_video: ''
 slides: ""
 ---
 The script is developed based on ArcGIS python library for hydrology class research in Tsinghua University. All the source code was open-sourced for next year’s students.
+
+Header image credit: Copyright (c) 2024 Cameron Beccario
