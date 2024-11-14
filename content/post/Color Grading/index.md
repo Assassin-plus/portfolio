@@ -22,7 +22,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 authors:
-  - Ziqi Lu
+  - Zi-Qi Lu
 
 tags:
   - Digital Arts
