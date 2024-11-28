@@ -2,7 +2,8 @@
 title: Chinese-style Dance
 summary: Chosen rendering & animating project.
 tags:
-  - Digital Art
+  - Digital Arts
+  - art
 date: '2024-01-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -22,7 +22,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 authors:
-  - Ziqi Lu
+  - Zi-Qi Lu
 
 tags:
   - Academic
@@ -32,20 +32,24 @@ categories:
   - Tutorial
   - 教程
 ---
-
 # Intro 2 CUDA
+
 ## Streams
+
 ### Page-Locked Host Memory
+
 ```cuda
 cudaHostAlloc((void**)&a, N*sizeof(int), cudaHostAllocDefault);
 cudaFreeHost(a);
 ```
+
 page-locked / pinned host memory:
 os guarantees that the memory is resident in physical memory and won't be paged out to disk.
 
 simultaneously pinned memory opt out of the feature of virtual memory.
 
 ### Multiple Streams
+
 ```cuda
 cudaStream_t stream1, stream2;
 cudaStreamCreate(&stream1);
@@ -67,16 +71,19 @@ There are different execution units to execute different types of instructions, 
 And **the order of code dependencies is equal to the order written in the code**.
 
 ## Multi-GPU
+
 ### Zero-Copy Host Memory
+
 ```cuda
 cudaHostAlloc((void**)&a, N*sizeof(int), cudaHostAllocWriteCombined | cudaHostAllocMapped);
 ```
-cudaHostAllocWriteCombined: this flag indicates that the runtime should allocate the buffer as write-combined, which will not change functionality in application 
+
+cudaHostAllocWriteCombined: this flag indicates that the runtime should allocate the buffer as write-combined, which will not change functionality in application
 but represents a performance enhancement for buffers that will be read only by the GPU.
 
 Write-combined memory can be extremely inefficient in scenarios where CPU also needs to perform reads from the buffer.
 
-cudaHostAllocMapped: the buffers can be accessed from the GPU. However, since there is a difference between the virtual address space of the CPU and the GPU, 
+cudaHostAllocMapped: the buffers can be accessed from the GPU. However, since there is a difference between the virtual address space of the CPU and the GPU,
 the call to cudaHostAlloc() will return a CPU pointer, which is then mapped to a GPU pointer using cudaHostGetDevicePointer().
 
 ### Portable Pinned Memory
@@ -86,6 +93,7 @@ the call to cudaHostAlloc() will return a CPU pointer, which is then mapped to a
 ```cuda
 cudaHostAlloc((void**)&a, N*sizeof(int), cudaHostAllocPortable);
 ```
+
 When a buffer is allocated as pinned, they will only **appear** page-locked to the thread that allocated them. If another thread tries to access the buffer, they will see the buffer as  standard pageable memory.
 
 To support portable pinned memory and zero-copy memory in multi-GPU systems, the code need two notable changes:

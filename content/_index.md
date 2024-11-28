@@ -66,8 +66,20 @@ sections:
           company: Tsinghua University
           location: Beijing
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2025-07-01'
           description: 
+        - title: Research Assistant, Advisor： Shi-Min Hu & Tai-Jiang Mu
+          company: Tsinghua University
+          location: Beijing
+          date_start: '2023-09-01'
+          date_end: '2024-09-01'
+          description: Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
+        - title: Research Assistant, Advisor： Yin Yang
+          company: University of Utah
+          location: Salt Lake City, Utah, USA
+          date_start: '2024-07-03'
+          date_end: '2024-09-08'
+          description: Internship in Graphics Lab, U of Utah
     design:
       columns: '2'
   - block: portfolio
@@ -91,6 +103,8 @@ sections:
           tag: Computer Graphics
         - name: Digital Arts
           tag: art
+        - name: Scripts
+          tag: scripts
         - name: Other
           tag: Demo
     design:
@@ -126,39 +140,39 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  #- block: markdown
-  #  content:
-  #    title: Gallery
-  #    subtitle: ''
-  #    text: |-
-  #      {{< gallery album="demo" >}}
-  #  design:
-  #    columns: '1'
-  #- block: collection
-  #  id: featured
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: card
-  #- block: collection
-  #  content:
-  #    title: Recent Publications
-  #    text: |-
-  #      {{% callout note %}}
-  #      Quickly discover relevant content by [filtering publications](./publication/).
-  #      {{% /callout %}}
-  #    filters:
-  #      folders:
-  #        - publication
-  #      exclude_featured: true
-  #  design:
-  #    columns: '2'
-  #    view: citation
+ # - block: markdown
+ #   content:
+ #     title: Gallery
+ #     subtitle: ''
+ #     text: |-
+ #       {{< gallery album="demo" >}}
+ #   design:
+ #     columns: '1'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   #- block: collection
   #  id: talks
   #  content:

@@ -3,10 +3,10 @@
 title: 卢子期
 
 # Name pronunciation (optional)
-name_pronunciation: Ziqi Lu
+name_pronunciation: Zi-Qi Lu
 
 # Full name (for SEO)
-first_name: Ziqi
+first_name: Zi-Qi
 last_name: Lu
 
 # Status emoji
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Junior Student
+role: Senior Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,9 +29,9 @@ bio: My research interests is in computer graphics, covering off-line and real-t
 
 # Interests to show in About widget
 interests:
-  - Computer Graphics
-  - Rendering
-  - Physical Simulation
+  - Computer Graphics / Rendering
+  - VR/AR
+  - Motion Capture
 
 # Education to show in About widget
 education:
@@ -54,15 +54,13 @@ skills:
       - name: blender
         description: ''
         percent: 90
+      - name: Java
+        description: ''
+        percent: 60
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Video Gaming
-        description: ''
-        percent: 60
-        icon: gamepad
-        icon_pack: fas
       - name: Modding
         description: ''
         percent: 80
@@ -72,6 +70,11 @@ skills:
         description: ''
         percent: 100
         icon: camera-retro
+        icon_pack: fas
+      - name: Video Gaming
+        description: ''
+        percent: 60
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
@@ -107,12 +110,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 I am an undergraduate student at the Tsinghua University, majoring in Mathematics and Physics + Civil Engineering and Systems.
 
 I am interested in the intersection of computer science, physics, and art, with a focus on the development of new algorithms and tools for the creation of digital art of high-fidelity physical correctness as well as expressiveness.
 
-I am also interested in implementing these new-tech tools as a creator, for which I have developed basic skills in digital art, music, and game design. 
+I am also interested in implementing these new-tech tools as a creator, for which I have developed basic skills in digital art, music, and game design.
 
 This website is still under construction. For more information, please refer to my GitHub.
 

@@ -3,6 +3,7 @@ title: Auto Hydrology
 summary: A python script to deal with hydrological data, including NDVI, soil, and boundary data. 
 tags:
   - demo
+  - scripts
 date: '2024-01-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -20,5 +21,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
 The script is developed based on ArcGIS python library for hydrology class research in Tsinghua University. All the source code was open-sourced for next year’s students.
+
+Header image credit: Copyright (c) 2024 Cameron Beccario
