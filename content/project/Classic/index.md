@@ -1,5 +1,5 @@
 ---
-title: Chinese-style Dance
+title: Popular Dance
 summary: Chosen rendering & animating project.
 tags:
   - Digital Arts
