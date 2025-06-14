@@ -10,7 +10,7 @@ date: '2025-06-09T00:00:00Z'
 external_link: ''
 
 url_code: ''
-url_pdf: 'thesis_lzq.pdf'
+#url_pdf: 'thesis_lzq.pdf'
 url_slides: ''
 url_video: ''
 
