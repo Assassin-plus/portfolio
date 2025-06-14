@@ -26,6 +26,3 @@ With the progress of computer-aided simulation research, there's an increasing d
 
 Therefore, this study concentrates on the photo-realistic scene visualization of large-scale fluid particle data, aiming to rapidly and interactively visualize particle data at around hundred-million level. This study first introduces the continuous level of detail technique into the field of fluid particle data through in-depth observation of input data characteristics to reduce performance waste; At the same time, by monitoring hardware performance, intelligent preloading of future frames of fluid animation can improve the smoothness of video rendering. The core of this study is to develop on the vtkOpenGLFluidMapper class in VTK's OpenGL extension. By applying the continuous level-of-detail technology and the future frame pre-loading and transmission optimization technique, it establishes an efficient fluid particle data scene visualization method, and implemented a prototype system to validate the feasibility and superiority of the algorithm. The research improves the efficiency of authenticity visualization without significantly compromising visual effects.
 
-## Copyright
-
-Header image copyright: [GaussianAvatars](https://shenhanqian.github.io/gaussian-avatars) by Technical University of Munich
