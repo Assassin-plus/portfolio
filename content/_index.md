@@ -5,8 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+  - block: resume-biography-3
     content:
       title: Hugo Academic Theme
       image:
@@ -68,13 +67,13 @@ sections:
           date_start: '2021-09-01'
           date_end: '2025-07-01'
           description: 
-        - title: Research Assistant, Advisorï¼š Shi-Min Hu & Tai-Jiang Mu
+        - title: Research Assistant, Advisorï¼? Shi-Min Hu & Tai-Jiang Mu
           company: Tsinghua University
           location: Beijing
           date_start: '2023-09-01'
           date_end: '2024-09-01'
           description: Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
-        - title: Research Assistant, Advisorï¼š Yin Yang
+        - title: Research Assistant, Advisorï¼? Yin Yang
           company: University of Utah
           location: Salt Lake City, Utah, USA
           date_start: '2024-07-03'
