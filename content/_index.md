@@ -62,13 +62,13 @@ sections:
           date_start: '2021-09-01'
           date_end: '2025-07-01'
           description: 
-        - title: Research Assistant, Advisorï¼? Shi-Min Hu & Tai-Jiang Mu
+        - title: Research Assistant, Advisor Shi-Min Hu & Tai-Jiang Mu
           company: Tsinghua University
           location: Beijing
           date_start: '2023-09-01'
           date_end: '2024-09-01'
           description: Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
-        - title: Research Assistant, Advisorï¼? Yin Yang
+        - title: Research Assistant, Advisor Yin Yang
           company: University of Utah
           location: Salt Lake City, Utah, USA
           date_start: '2024-07-03'
