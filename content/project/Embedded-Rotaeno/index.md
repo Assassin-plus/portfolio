@@ -3,7 +3,7 @@ title: Embedded Rotaeno
 summary: An Replica on Embedded System of Rotaeno Rhythm Game developed on Blazar, an Open Hardware of ARM Cortex M
 tags:
   - demo
-date: '2022-06-31T00:00:00Z'
+date: '2022-06-31'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/Assassin-plus/Embedded-Rotaeno'
