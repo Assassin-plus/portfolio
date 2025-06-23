@@ -93,7 +93,7 @@ sections:
       # Display content from the `content/post/` folder
       filters:
         folders:
-          - post
+          - project
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
