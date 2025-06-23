@@ -70,14 +70,6 @@ education:
       - Film Score Production， Recording and TV Music Production
       - Mathematical Physics Equations， 	Numerical Analysis， Probability and Stochastic Processes
 work:
-  - position: Research Assistant, Advisor Shi-Min Hu & Tai-Jiang Mu
-    company_name: Tsinghua University
-    company_url: ''
-    company_logo: ''
-    date_start: '2023-09-01'
-    date_end: '2024-09-01'
-    summary: |2-
-      Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
   - position: Research Assistant, Advisor Yin Yang
     company_name: University of Utah
     company_url: ''
@@ -86,6 +78,14 @@ work:
     date_end: '2024-09-08'
     summary: |
       Internship in Graphics Lab, U of Utah
+  - position: Research Assistant, Advisor Shi-Min Hu & Tai-Jiang Mu
+    company_name: Tsinghua University
+    company_url: ''
+    company_logo: ''
+    date_start: '2023-09-01'
+    date_end: '2024-09-01'
+    summary: |2-
+      Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -117,8 +117,6 @@ skills:
       - name: Modding
         description: ''
         percent: 80
-        icon: wrench-screwdriver
-        icon_pack: hero
       - name: Photography
         description: ''
         percent: 100
