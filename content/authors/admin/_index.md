@@ -82,14 +82,18 @@ skills:
       - name: C/C++/CUDA
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: c
+        icon_pack: devicon
       - name: blender
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: blender
+        icon_pack: devicon
       - name: Java
         description: ''
         percent: 60
+        icon: java
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -97,7 +101,8 @@ skills:
       - name: Modding
         description: ''
         percent: 80
-        icon: screwdriver
+        icon: wrench-screwdriver
+        icon_pack: hero
       - name: Photography
         description: ''
         percent: 100
