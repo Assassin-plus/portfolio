@@ -42,10 +42,22 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: languages
+  - block: collection
+    id: section-1
     content:
-      title: Languages
-      username: admin
+      title: Projects
+      subtitle: ''
+      # Display content from the `content/post/` folder
+      filters:
+        folders:
+          - project
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose your content listing view - here we use the `showcase` view
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
   - block: collection
     content:
       title: Recent Publications
@@ -65,7 +77,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""
@@ -85,20 +97,8 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    id: section-1
+  - block: languages
     content:
-      title: Projects
-      subtitle: ''
-      # Display content from the `content/post/` folder
-      filters:
-        folders:
-          - project
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      title: Languages
+      username: admin
 ---
