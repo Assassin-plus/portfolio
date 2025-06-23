@@ -70,8 +70,6 @@ sections:
           description: Internship in Graphics Lab, U of Utah
     design:
       columns: '2'
-  - block: education
-  
   - block: collection
     id: papers
     content:
