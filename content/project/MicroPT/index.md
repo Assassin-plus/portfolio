@@ -3,7 +3,6 @@ title: Micro-PT
 summary: A classic path tracing algorithm implemented in C++ with modern material support and multi-threading.
 tags:
   - Computer Graphics
-date: '2023-06-31'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/Assassin-plus/micropt'
