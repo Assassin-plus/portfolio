@@ -38,18 +38,38 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: markdown
+  - block: experience
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Student
+          company: Tsinghua University
+          location: Beijing
+          date_start: '2021-09-01'
+          date_end: '2025-07-01'
+          description: 
+        - title: Research Assistant, Advisor Shi-Min Hu & Tai-Jiang Mu
+          company: Tsinghua University
+          location: Beijing
+          date_start: '2023-09-01'
+          date_end: '2024-09-01'
+          description: Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
+        - title: Research Assistant, Advisor Yin Yang
+          company: University of Utah
+          location: Salt Lake City, Utah, USA
+          date_start: '2024-07-03'
+          date_end: '2024-09-08'
+          description: Internship in Graphics Lab, U of Utah
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
