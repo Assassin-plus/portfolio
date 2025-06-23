@@ -97,18 +97,15 @@ skills:
       - name: Modding
         description: ''
         percent: 80
-        icon: screwdriver-wrench
-        icon_pack: fas
+        icon: screwdriver
       - name: Photography
         description: ''
         percent: 100
-        icon: camera-retro
-        icon_pack: fas
+        icon: camera
       - name: Video Gaming
         description: ''
         percent: 60
         icon: gamepad
-        icon_pack: fas
 
 languages:
   - name: English
