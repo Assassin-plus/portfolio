@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:1071973361az@gmail.com'
     label: E-mail Me
-  - icon: "custom/itch-io"
+  - icon: "custom/itch"
     url: https://assassin-plus.itch.io/
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -164,7 +164,7 @@ skills:
       - name: Game Modding
         description: ''
         percent: 80
-        icon: custom/modding
+        icon: hero/wrench-screwdriver
       - name: Cinemaphotography
         description: ''
         percent: 100
