@@ -152,7 +152,7 @@ skills:
       - name: ZBrush
         description: ''
         percent: 50
-        icon: custom/zbrush.svg
+        icon: "custom/zbrush"
       - name: Houdini
         description: ''
         percent: 50
