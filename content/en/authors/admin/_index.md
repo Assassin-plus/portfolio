@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:1071973361az@gmail.com'
     label: E-mail Me
-  - icon: gamepad
+  - icon: itch-io
     url: https://assassin-plus.itch.io/
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
