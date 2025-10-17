@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ????
 
 # Is this the primary user of the site?
 superuser: true
@@ -108,7 +108,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 100
-        icon: skills/cplusplus-original
+        icon: devicon/cplusplus
       - name: CUDA
         description: ''
         percent: 70
@@ -116,31 +116,31 @@ skills:
       - name: C#
         description: ''
         percent: 70
-        icon: skills/csharp-original
+        icon: devicon/csharp
       - name: GLSL
         description: ''
         percent: 90
-        icon: skills/opengl-original
+        icon: devicon/opengl
       - name: Java
         description: ''
         percent: 50
-        icon: skills/java
+        icon: devicon/java
       - name: blender
         description: ''
         percent: 100
-        icon: skills/blender-original
+        icon: devicon/blender
       - name: Maya
         description: ''
         percent: 70
-        icon: skills/maya-original
+        icon: devicon/maya
       - name: Unreal Engine
         description: ''
         percent: 80
-        icon: skills/unrealengine-original
+        icon: devicon/unrealengine
       - name: Unity
         description: ''
         percent: 60
-        icon: skills/unity-original
+        icon: devicon/unity
       - name: Davinci Resolve
         description: ''
         percent: 100
@@ -148,7 +148,7 @@ skills:
       - name: ZBrush
         description: ''
         percent: 50
-        icon: "custom/zbrush"
+        icon: custom/zbrush
       - name: Houdini
         description: ''
         percent: 50
