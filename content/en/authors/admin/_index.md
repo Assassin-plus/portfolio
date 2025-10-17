@@ -126,6 +126,8 @@ skills:
         percent: 50
         icon: devicon/java
   - name: DCC Softwares
+    color: '#a855f7'
+    color_border: '#b564ff'
     items:
       - name: blender
         description: ''
