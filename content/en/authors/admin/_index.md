@@ -125,6 +125,8 @@ skills:
         description: ''
         percent: 50
         icon: devicon/java
+  - name: DCC Softwares
+    items:
       - name: blender
         description: ''
         percent: 100
@@ -148,7 +150,7 @@ skills:
       - name: ZBrush
         description: ''
         percent: 50
-        icon: custom/zbrush
+        icon: custom/zbrush.svg
       - name: Houdini
         description: ''
         percent: 50
