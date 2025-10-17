@@ -103,7 +103,8 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: /media/icons/skills/python-original.svg
+        icon: python-original
+        icon_pack: devicon
       - name: C/C++
         description: ''
         percent: 100
