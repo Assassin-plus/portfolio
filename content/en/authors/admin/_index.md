@@ -112,7 +112,7 @@ skills:
       - name: CUDA
         description: ''
         percent: 70
-        icon: skills/cuda
+        icon: custom/cuda
       - name: C#
         description: ''
         percent: 70
@@ -144,7 +144,7 @@ skills:
       - name: Davinci Resolve
         description: ''
         percent: 100
-        icon: skills/davinciresolve
+        icon: custom/davinciresolve
       - name: ZBrush
         description: ''
         percent: 50
@@ -152,11 +152,11 @@ skills:
       - name: Houdini
         description: ''
         percent: 50
-        icon: skills/houdini
+        icon: custom/houdini
       - name: Marvelous Designer
         description: ''
         percent: 40
-        icon: skills/marvelous-designer
+        icon: custom/marvelous-designer
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -164,7 +164,7 @@ skills:
       - name: Game Modding
         description: ''
         percent: 80
-        icon: skills/modding
+        icon: custom/modding
       - name: Cinemaphotography
         description: ''
         percent: 100
@@ -172,7 +172,7 @@ skills:
       - name: Video Editing
         description: ''
         percent: 100
-        icon: skills/film
+        icon: hero/video-camera
       - name: Video Gaming
         description: ''
         percent: 100
@@ -180,11 +180,11 @@ skills:
       - name: Music
         description: ''
         percent: 80
-        icon: hobbies/recording
+        icon: hero/microphone
       - name: Violin
         description: ''
         percent: 100
-        icon: hobbies/violin
+        icon: custom/violin
 languages:
   - name: English
     percent: 75
