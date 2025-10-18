@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Zi qi Lu
+title: 卢子期
 
 # Name pronunciation (optional)
-name_pronunciation: Tzu Ch'i Lu
+# name_pronunciation: Tzu Ch'i Lu
 
 # Full name (for SEO)
-first_name: Zi qi
-last_name: Lu
+first_name: 子期
+last_name: 卢
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ♥
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: First-year graduate student
+role: 硕士一年级
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Utah
+  - name: 犹他大学
     url: https://www.utah.edu/
 
 # Social network links
@@ -53,26 +53,26 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Computer Graphics / Rendering
-  - Artificial Intelligence
-  - Shader Programming
-  - Visual Effects
+  - 计算机图形学（渲染向）
+  - 人工智能应用
+  - Shader编程
+  - 视觉特效
 
 education:
-  - area: Master of Entertainment Art & Engineering
-    institution: University of Utah
+  - area: 娱乐艺术技术
+    institution: 犹他大学
     date_start: 2025-08-15
     date_end: 2027-05-30
     summary: |
-      Currently enrolled. Trying to be a generalist Technical Artist.
-  - area: BSc Math and Physics & Civil Engineering and Systems
-    institution: Tsinghua University
+      努力成为一个全能的技术美术。
+  - area: 数学物理基础+土木水利与海洋工程
+    institution: 清华大学
     date_start: 2021-09-01
     date_end: 2025-07-01
     summary: |
       GPA: 3.57/4.0
   
-      Courses included:
+      曾上过的课程：
       - Digital Design and Embedded System, High Performance Computing,	Computer Systems, Computer Graphics, Artificial Intelligence, Data Structure
       - Film Score Production, Recording and TV Music Production
       - Mathematical Physics Equations, 	Numerical Analysis, Probability and Stochastic Processes
