@@ -40,14 +40,14 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: 技能与兴趣
       username: admin
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 论文
       filters:
         folders:
           - publication
@@ -57,7 +57,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent Publications
+      title: 最近发表
       text: ''
       filters:
         folders:
@@ -68,7 +68,7 @@ sections:
   - block: collection
     id: project
     content:
-      title: Projects
+      title: 个人项目
       subtitle: ''
       count: 5
       # Display content from the `content/post/` folder
@@ -85,6 +85,6 @@ sections:
       flip_alt_rows: true
   - block: languages
     content:
-      title: Languages
+      title: 语言
       username: admin
 ---
