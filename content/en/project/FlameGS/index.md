@@ -1,6 +1,6 @@
 ---
 title: FlameGS
-summary: A comprehensive process pipeline to reconstruct photo-realistic facial meshes, textures, and animations from monocular or multi-camera video sources, enhancing the avatar realism and versatility in various applications
+summary: 一个完整的面部重建流程，用于从?目或多目??中重建逼真的面部网格、?理和?画,��?了Avatar在各??用中的真?感和多?性。
 tags:
   - Computer Graphics
   - Reconstruction
@@ -23,16 +23,16 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-# Reconstructing Detailed Facial Mesh from Monocular or Multicam Videos
+# FlameGS
 
 July 2024 - Sept. 2024
 
-Research Intern at University of Utahvisor:Yang Yin
+在犹他大学?垠教授指?下的??.
 
-* Developed a comprehensive process pipeline to reconstruct photo-realistic facial meshes, textures, and animations from monocular or multi-camera video sources, enhancing the avatar realism and versatility in various applications
-* Integrated the FLAME parametric differentiable face model with the Gaussian Splatting method to efffficiently capture detailed features under extreme data distributions
-* Formulated a transfer algorithm for further simulation on the mixed avatar representation of meshes and gaussians, which are fully controllable and user-friendly in terms of expression, pose, and viewpoint
-* Achieved comparable image similarity and multi-view consistency with state-of-the-art methods, while also producing more temporally smooth pose and expression animations
+* ??了一套全面的?理流程，能?从?目或多?像???源中重建出逼真度极高的面部网格、?理和?画，从而提升了虚?角色在各??用中的真?感和多?性
+* 将FLAME可微分参数化人?模型与高斯?射法相?合，以高效捕捉极端数据分布下的??特征
+* ??网格和高斯混合的Avatar表示，制定了一???算法，以便?一?模?人?运?。??表示在表情、姿?和?角方面完全可控且用?友好
+* 与最先?的方法相比，??了相当的?像相似性和多?角一致性，同??生成了??上更流?的姿?和表情?画
 
 ## Copyright
 

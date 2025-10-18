@@ -1,6 +1,6 @@
 ---
 title: Micro-PT
-summary: A classic path tracing algorithm implemented in C++ with modern material support and multi-threading.
+summary: ÍÑC++??Åª?ÅµÏ©·Âìğí©»»Ë¡¡¤¶ñÍ­?ÂåPBRºà?ÏÂÂ¿?Äø»Ù»ı¡£
 tags:
   - Computer Graphics
 featured: true
@@ -21,9 +21,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-## Features
+## ÆÃÀ­
 
-- Distributed Path Tracing / Stochastic Progressive Photon Mapping
-- OpenMP Multi-threading
-- Modern Microfacet Material Support
-- Bounding Volume Hierarchy Acceleration
+- Ê¬ÉÛ¼°Ï©·ÂÄÉí©/¿ï´ù??¸÷»Ò±Ç¼Í
+- OpenMPÂ¿?Äø
+- ?ÂåÈùÉ½ÌÌPBRºà?
+- ?³¦ÂÎ??¼¡²ÃÂ®

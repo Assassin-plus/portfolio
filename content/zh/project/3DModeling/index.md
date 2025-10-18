@@ -1,6 +1,6 @@
 ---
-title: 3D Modeling
-summary: Chosen modeling project. Rendered using Keyshot.
+title: 3D·úÌÏğº¹ï
+summary: »ÈÍÑZBrushğº¹ï¡¤KeyshotÇìÀ÷¡£
 tags:
   - Digital Arts
   - art

@@ -1,6 +1,6 @@
 ---
 title: WaterLOD
-summary: A continuous Level of Detail (LOD) method for billion-scale fluid particle rendering. The bachelor thesis project at the Tsinghua University.
+summary: 一?用于十??流体粒子渲染的?????次（LOD）方法。清?大学的学士?文?目。
 tags:
   - Computer Graphics
   - Rendering
@@ -22,6 +22,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-With the progress of computer-aided simulation research, there's an increasing demand for large-scale 3D fluid simulation in geotechnical and hydraulic fields. These fields require processing large-scale, high-precision fluid simulation data. However, traditional visualization technologies have limitations including low efficiency, poor reality and lack of intuitiveness. At the same time, the promising application prospect of currently popping technologies such as Virtual Reality and Augmented Reality require development of photo-realistic scene fluid visualization.
+随着?算机?助模?研究的?展，岩土工程和水力?域?大?模三?流体模?的需求越来越大。?些?域需要?理大?模、高精度的流体模?数据。然而，??的可?化技?存在效率低、真?性差、缺乏直?性等局限性。同?，虚???和��???等当前流行技?的广??用前景要求??照片?逼真的?景流体可?化。
 
-Therefore, this study concentrates on the photo-realistic scene visualization of large-scale fluid particle data, aiming to rapidly and interactively visualize particle data at around hundred-million level. This study first introduces the continuous level of detail technique into the field of fluid particle data through in-depth observation of input data characteristics to reduce performance waste; At the same time, by monitoring hardware performance, intelligent preloading of future frames of fluid animation can improve the smoothness of video rendering. The core of this study is to develop on the vtkOpenGLFluidMapper class in VTK's OpenGL extension. By applying the continuous level-of-detail technology and the future frame pre-loading and transmission optimization technique, it establishes an efficient fluid particle data scene visualization method, and implemented a prototype system to validate the feasibility and superiority of the algorithm. The research improves the efficiency of authenticity visualization without significantly compromising visual effects.
+因此，本研究?注于大?模流体粒子数据的照片?逼真?景可?化，旨在快速、交互式地可?化数??左右的粒子数据。本研究首先通???入数据特征的深入?察，将????技?引入流体?粒数据?域，以减少性能浪?；同?，通??控硬件性能，智能?加?未来的流体?画?可以提高??渲染的平滑度。本研究的核心是在VTK的OpenGL?展中??vtkOpenGLFluidMapper?。通??用?????次技?和未来??加?和???化技?，建立了一?高效的流体粒子数据?景可?化方法，并??了一个原型系?，以???算法的可行性和?越性。?研究在不?著影响??效果的情况下提高了真?性可?化的效率。

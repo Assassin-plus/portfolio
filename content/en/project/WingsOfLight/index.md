@@ -1,6 +1,6 @@
 ---
-title: MV of song *Wings of Light*
-summary: Editor and Director in a collaboration project
+title: ¸÷Ç·ÍãMV
+summary: ¹çºî?ÌÜÅª?±éÍ¿Ñò?
 tags:
   - Digital Arts
   - art
@@ -21,4 +21,3 @@ url_video: 'https://www.bilibili.com/video/BV1yeUfYvEWq'
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I worked as the editor and director in the production of a MV of song covering, meanwhile a birthday gift for my friend.
