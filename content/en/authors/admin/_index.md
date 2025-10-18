@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: ♥
+  icon: ???
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:1071973361az@gmail.com'
+    url: 'mailto:ziqilu152@gmail.com'
     label: E-mail Me
   - icon: "custom/itch"
     url: https://assassin-plus.itch.io/
