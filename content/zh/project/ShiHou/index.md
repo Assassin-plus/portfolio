@@ -1,6 +1,6 @@
 ---
-title: Chinese-style Dance
-summary: Chosen rendering & animating project.
+title: 时候舞蹈
+summary: 个人渲染、动画作品集
 tags:
   - Digital Arts
   - art
@@ -21,4 +21,6 @@ url_video: 'https://www.bilibili.com/video/BV1g94y1H733'
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-MikuMikuDance is a 3D Animation Software developed as a promotional element for fans of the Sony/Sega Vocaloid product. At the mean time MY Enlightment of Computer Graphics and Animation.
+# MMD
+MikuMikuDance是一款3D动画制作软件，为索尼/世嘉Vocaloid产品的粉丝制作。同时，也是我的计算机图形学和动画启蒙。
+

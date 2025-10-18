@@ -1,6 +1,6 @@
 ---
-title: 活字生形
-summary: 《Rapid Prototype》?程中的VR益智游?，旨在教授非沐浴者?字。我的主要共享是人工智能光学字符??（OCR）插件系?。我将最先?的?源模型PPOCR-v5集成到虚幻引擎中以支撑核心游?玩法。除此之外，作?一名技?美?，我?帮助?作漫画?格化的着色器、??效果、?境????和所有照明系?。
+title: Living Strokes
+summary: VR puzzle game in course Rapid Prototype. Aiming to teach Chinese characters. 
 tags:
   - Video Games
   - Serious Games
@@ -22,3 +22,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+# Living Strokes
+
+My main part is the AI Optical Character Recognition (OCR) plugin system. I integrate PPOCR-v5, the most advanced open-source model, into Unreal engine, supporting the core gameplay. 
+
+Besides that, as a tech artist, I also help create the manga stylized shaders, visual effects, environment art design, and all the lighting.

@@ -1,6 +1,6 @@
 ---
-title: 秩掐及利?不围
-summary: 答胁Blazar·办肖?富Cortex M ARM乘弄秩掐及废?·?癸弄≡利?不围≌。
+title: Embedded Rotaeno 
+summary: An Replica on Embedded System of Rotaeno Rhythm Game developed on Blazar, an Open Hardware of ARM Cortex M
 tags:
   - demo
 featured: true

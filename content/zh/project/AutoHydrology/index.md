@@ -1,6 +1,6 @@
 ---
-title: Auto Hydrology
-summary: A python script to deal with hydrological data, including NDVI, soil, and boundary data. 
+title: 水文学数据处理脚本
+summary: 基于ArcGIS的Python脚本，用于水文学课程数据处理，包括流域特征提取、径流模拟、水文学参数计算等。
 tags:
   - demo
   - scripts

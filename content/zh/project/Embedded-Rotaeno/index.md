@@ -1,6 +1,6 @@
 ---
-title: Embedded Rotaeno 
-summary: An Replica on Embedded System of Rotaeno Rhythm Game developed on Blazar, an Open Hardware of ARM Cortex M
+title: 嵌入式旋转音律
+summary: 基于Blazar，一个开源Cortex M ARM核的嵌入式系统，复刻的《旋转音律》。
 tags:
   - demo
 featured: true
