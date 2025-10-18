@@ -55,7 +55,7 @@ profiles:
 interests:
   - 计算机图形学（渲染向）
   - 人工智能应用
-  - Shader编程
+  - 着色器编程与优化
   - 视觉特效
 
 education:
