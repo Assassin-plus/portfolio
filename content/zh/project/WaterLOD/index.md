@@ -1,6 +1,6 @@
 ---
 title: WaterLOD
-summary: 一种用于十亿级流体粒子渲染的连续细节层次（LOD）方法。清华大学的学士论文项目。
+summary: 一种用于亿级流体粒子渲染的连续细节层次（LOD）方法。清华大学的学士论文项目。
 tags:
   - Computer Graphics
   - Rendering
