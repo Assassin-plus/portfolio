@@ -71,34 +71,36 @@ education:
     date_end: 2025-07-01
     summary: |
       GPA: 3.57/4.0
+      毕业论文：
+      - 基于LOD的流体粒子屏幕空间写实渲染方法 
   
       曾上过的课程：
-      - Digital Design and Embedded System, High Performance Computing,	Computer Systems, Computer Graphics, Artificial Intelligence, Data Structure
-      - Film Score Production, Recording and TV Music Production
-      - Mathematical Physics Equations, 	Numerical Analysis, Probability and Stochastic Processes
+      - 数字电路与嵌入式系统, 高性能计算,	计算机系统, 计算机图形学, 人工智能导论, 数据结构
+      - 电影音乐制作, 音乐录音
+      - 数学物理方程, 数值分析, 概率论与随机过程
 
 work:
-  - position: Research Assistant, Advisor Yin Yang
-    company_name: University of Utah
+  - position: 本科生研究助理, 导师杨垠
+    company_name: 犹他大学
     company_url: ''
     company_logo: ''
     date_start: '2024-07-03'
     date_end: '2024-09-08'
     summary: |
-      Internship in Graphics Lab, U of Utah
-  - position: Research Assistant, Advisor Shi-Min Hu & Tai-Jiang Mu
-    company_name: Tsinghua University
+      于犹他大学图形学实验室研究人脸重建与表情驱动，利用了高斯溅射的高效性。
+  - position: 本科生研究助理，导师胡事民、穆太江
+    company_name: 清华大学
     company_url: ''
     company_logo: ''
     date_start: '2023-09-01'
     date_end: '2024-09-01'
     summary: |2-
-      Internship in Graphics and Geometric Computing Group, Department of Computer Science and Technology
+      在清华大学图形与几何实验室研究基于人体结构的身体特征和肢体动画重建。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: 编程语言
     items:
       - name: Python
         description: ''
@@ -124,6 +126,8 @@ skills:
         description: ''
         percent: 50
         icon: skills/java
+  - name: 游戏开发软件
+    items:
       - name: blender
         description: ''
         percent: 100
@@ -132,7 +136,7 @@ skills:
         description: ''
         percent: 70
         icon: skills/maya-original
-      - name: Unreal Engine
+      - name: 虚幻引擎
         description: ''
         percent: 80
         icon: skills/unrealengine-original
@@ -140,7 +144,7 @@ skills:
         description: ''
         percent: 60
         icon: skills/unity-original
-      - name: Davinci Resolve
+      - name: 达芬奇
         description: ''
         percent: 100
         icon: skills/davinciresolve
@@ -160,36 +164,36 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Game Modding
+      - name: 游戏Mod
         description: ''
         percent: 80
         icon: skills/modding
-      - name: Cinemaphotography
+      - name: 摄影（电影向）
         description: ''
         percent: 100
         icon: camera
-      - name: Video Editing
+      - name: 剪辑
         description: ''
         percent: 100
         icon: skills/film
-      - name: Video Gaming
+      - name: 游戏
         description: ''
         percent: 100
         icon: gamepad
-      - name: Music
+      - name: 音乐
         description: ''
         percent: 80
         icon: hobbies/recording
-      - name: Violin
+      - name: 小提琴
         description: ''
         percent: 100
         icon: hobbies/violin
 languages:
-  - name: English
+  - name: 英文
     percent: 75
-  - name: Chinese
+  - name: 中文
     percent: 100
-  - name: Quenya
+  - name: 精灵语
     percent: 50
 
 # Awards.
@@ -223,12 +227,12 @@ languages:
 #    summary: |
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-## About Me
+## 关于我
 
-Ziqi Lu is a graduate student at the University of Utah, majoring in the Master of Entertainment Art and Engineering, Technical Art track. He is  previously an undergraduate student at the Tsinghua University, majoring in Mathematics and Physics + Civil Engineering and Systems.
+卢子期是犹他大学娱乐艺术与工程硕士（技术艺术方向）在读研究生。此前他曾就读于清华大学，本科专业为数学物理+土木工程与系统工程。
 
-He is interested in the intersection of computer science and art, with a focus on the development of new algorithms and tools for the creation of digital art of high-fidelity physical correctness as well as expressiveness.
+他对计算机科学与艺术的交叉领域深感兴趣，专注于开发新算法与工具以创作真实且富有表现力的数字艺术。
 
-He is also interested in implementing these new-tech tools as a creator, for which I have developed basic skills in digital art, music, and game design.
+他也对创作者如何采用这些新技术工具很感兴趣，为此已掌握了数字艺术、音乐和游戏开发的基本技能。
 
-This website is still under construction. For more information, please refer to his GitHub.
+本网站仍在建设中。如需更多信息，请访问他的GitHub页面。
