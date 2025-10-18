@@ -1,6 +1,6 @@
 ---
-title: 3D·úÌÏğº¹ï
-summary: »ÈÍÑZBrushğº¹ï¡¤KeyshotÇìÀ÷¡£
+title: 3Då»ºæ¨¡é›•åˆ»
+summary: ä½¿ç”¨ZBrushé›•åˆ»ï¼ŒKeyshotæ¸²æŸ“ã€‚
 tags:
   - Digital Arts
   - art
