@@ -83,7 +83,7 @@ sections:
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
   - block: collection
-    id: news
+    id: posts
     content:
       title: Recent Posts
       subtitle: ''
