@@ -12,12 +12,12 @@ sections:
   - block: collection
     id: project
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: 个人项目
+      text: 我很享受创作的过程，这些是我过去数年的个人项目和参与的团队项目
     design:
       view: article-grid
       fill_image: true
-      columns: 3
+      columns: 1
       show_date: true
       show_read_time: true
       show_read_more: true
