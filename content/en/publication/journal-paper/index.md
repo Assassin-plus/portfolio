@@ -25,9 +25,10 @@ publication: "TerraCraft: City-scale Generative Procedural Modeling with Natural
 Languages"
 publication_short: "TerraCraft"
 
-abstract: 由于所需的资源密集型训练和数据集，自动生成大规模3D场景是一项重大挑战。这与由于其卓越的速度和质量而变得容易获得的2D对应物形成鲜明对比。然而，之前在3D过程建模方面的工作已经证明，使用算法和用户定义规则的组合生成高质量资产是有希望的。为了充分利用2D生成模型和程序建模工具的优势，我们提出了TerraCraft，这是一个用于生成几何质量高的3D城市级场景的新框架。通过利用大型语言模型（LLM），TerraCraft可以从自然文本描述中生成城市规模的3D场景。凭借其直观的操作和强大的功能，TerraCraft使用户能够轻松地为各种应用程序（如虚拟现实和游戏设计）创建几何形状高质量的场景。我们通过广泛的实验和用户研究验证了TerraCraft的有效性，表明其性能优于现有的基线。
+abstract: Automated generation of large-scale 3D scenes presents a significant challenge due to the resource-intensive training and datasets required. This is in sharp contrast to the 2D counterparts that have become readily available due to their superior speed and quality. However, prior work in 3D procedural modeling has demonstrated promise in generating high-quality assets using the combination of algorithms and user-defined rules. To leverage the best of both 2D generative models and procedural modeling tools, we present TerraCraft, a novel framework for generating geometrically high-quality 3D city-scale scenes. By utilizing Large Language Models (LLMs), TerraCraft can generate city-scale 3D scenes from natural text descriptions. With its intuitive operation and powerful capabilities, TerraCraft enables users to easily create geometrically high-quality scenes readily for various applications, such as virtual reality and game design. We validate TerraCraft's effectiveness through extensive experiments and user studies, showing its superior performance compared to existing baselines.
+
 # Summary. An optional shortened abstract.
-summary: 由于3D场景需要训练资源和数据集，因此自动生成大规模3D场景是一个重大挑战。TerraCraft使用户能够轻松创建高分辨率的详细场景，以用于各种应用。
+summary: Automated generation of large-scale 3D scenes presents a significant challenge due to the required training resources and datasets for 3D scenes. TerraCraft enables users to easily create high-resolution detailed scenes to be used in various applications.
 
 tags:
 - Procedural modeling
@@ -73,4 +74,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-这项工作是由我[以前参与的项目](/portfolio/content/project/TerraGPT)的结果推动的.
+This work is driven by the results in my [previous project](/portfolio/content/project/TerraGPT).
