@@ -29,6 +29,24 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: collection
+    id: project
+    content:
+      title: 个人项目
+      subtitle: ''
+      count: 5
+      # Display content from the `content/post/` folder
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose your content listing view - here we use the `showcase` view
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
   - block: experience
     id: experience
     content:
@@ -66,23 +84,34 @@ sections:
     design:
       view: citation
   - block: collection
-    id: project
+    id: posts
     content:
-      title: 个人项目
+      title: 最近发布
       subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Display content from the `content/post/` folder
+      # Filter on criteria
       filters:
-        folders:
-          - project
-        featured_only: true
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      # Choose a layout view
+      view: card
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: languages
     content:
       title: 语言

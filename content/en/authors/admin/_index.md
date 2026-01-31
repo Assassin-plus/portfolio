@@ -135,16 +135,24 @@ skills:
         icon: devicon/blender
       - name: Maya
         description: ''
-        percent: 70
+        percent: 80
         icon: devicon/maya
       - name: Unreal Engine
         description: ''
-        percent: 80
+        percent: 100
         icon: devicon/unrealengine
       - name: Unity
         description: ''
-        percent: 60
+        percent: 70
         icon: devicon/unity
+      - name: Houdini
+        description: ''
+        percent: 80
+        icon: custom/houdini
+      - name: Substance Designer
+        description: ''
+        percent: 80
+        icon: custom/houdini
       - name: Davinci Resolve
         description: ''
         percent: 100
@@ -153,10 +161,6 @@ skills:
         description: ''
         percent: 50
         icon: "custom/zbrush"
-      - name: Houdini
-        description: ''
-        percent: 50
-        icon: custom/houdini
       - name: Marvelous Designer
         description: ''
         percent: 40

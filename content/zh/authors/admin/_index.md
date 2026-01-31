@@ -126,41 +126,45 @@ skills:
         description: ''
         percent: 50
         icon: skills/java
-  - name: 游戏开发软件
+  - name: 数字内容创作软件
     items:
       - name: blender
         description: ''
         percent: 100
-        icon: skills/blender-original
+        icon: devicon/blender
       - name: Maya
         description: ''
-        percent: 70
-        icon: skills/maya-original
-      - name: 虚幻引擎
-        description: ''
         percent: 80
-        icon: skills/unrealengine-original
-      - name: Unity
-        description: ''
-        percent: 60
-        icon: skills/unity-original
-      - name: 达芬奇
+        icon: devicon/maya
+      - name: Unreal Engine
         description: ''
         percent: 100
-        icon: skills/davinciresolve
+        icon: devicon/unrealengine
+      - name: Unity
+        description: ''
+        percent: 70
+        icon: devicon/unity
+      - name: Houdini
+        description: ''
+        percent: 80
+        icon: custom/houdini
+      - name: Substance Designer
+        description: ''
+        percent: 80
+        icon: custom/houdini
+      - name: Davinci Resolve
+        description: ''
+        percent: 100
+        icon: custom/davinciresolve
       - name: ZBrush
         description: ''
         percent: 50
-        icon: skills/zbrush
-      - name: Houdini
-        description: ''
-        percent: 50
-        icon: skills/houdini
+        icon: "custom/zbrush"
       - name: Marvelous Designer
         description: ''
         percent: 40
-        icon: skills/marvelous-designer
-  - name: Hobbies
+        icon: custom/marvelous-designer
+  - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:

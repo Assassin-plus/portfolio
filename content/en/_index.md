@@ -29,6 +29,24 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: collection
+    id: project
+    content:
+      title: Projects
+      subtitle: ''
+      count: 5
+      # Display content from the `content/post/` folder
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose your content listing view - here we use the `showcase` view
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
   - block: experience
     content:
       username: admin
@@ -64,24 +82,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: project
-    content:
-      title: Projects
-      subtitle: ''
-      count: 5
-      # Display content from the `content/post/` folder
-      filters:
-        folders:
-          - project
-        featured_only: true
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
   - block: collection
     id: posts
     content:
