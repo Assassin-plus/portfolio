@@ -146,11 +146,11 @@ skills:
         icon: devicon/unity
       - name: Houdini
         description: ''
-        percent: 80
+        percent: 90
         icon: custom/houdini
       - name: Substance Designer
         description: ''
-        percent: 80
+        percent: 90
         icon: custom/houdini
       - name: Davinci Resolve
         description: ''
