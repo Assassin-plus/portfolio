@@ -27,7 +27,7 @@ zh:
         url: /#papers
         weight: 12
       - name: 博客
-        url: /#news
+        url: /#posts
         weight: 13
       - name: 个人履历
         url: experience/
