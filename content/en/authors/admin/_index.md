@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ziqilu152@gmail.com'
     label: E-mail Me
-  - icon: "custom/itch"
+  - icon: itch.svg
     url: https://assassin-plus.itch.io/
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
